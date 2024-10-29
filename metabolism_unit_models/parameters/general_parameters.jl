@@ -1,0 +1,10 @@
+R = 8.31
+T = 310.0
+F = 9.64853e04
+RTF     =   26.73
+eto_n =  0.45
+eto_a = 0.25
+eto_ecs = 0.2
+eto_b = 0.0055
+beta = eto_n/eto_ecs
+T2Jcorrection = 0.2783450473253539

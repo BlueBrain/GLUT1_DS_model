@@ -1,0 +1,36 @@
+TmaxSNAT_GLN_n = 0.07614698345131839
+KmSNAT_GLN_n = 1.1
+coeff_gln_ratio_n_ecs = 2.5
+VmGLS_n = 330.14406166650446
+KeqGLS_n = 25.
+KmGLNGLS_n = 12.0
+KiGLUGLS_n = 45.0
+
+glut_vesicle_deltaConc = 0.1
+coeff_synGlutRelease = 1.5
+v_thr = 60.
+Na_syn_EAAT = 150.0
+H_syn_EAAT = 4e-05
+H_ast_EAAT = 6e-05
+SA_ast_EAAT = 2.8274e-13
+alpha_EAAT = 0.41929231117352916
+beta_EAAT = 0.035
+K_ast_EAAT = 100.0
+Vol_syn = 1e-18
+Vol_astEAAT = 3.76e-17
+
+VmGDH_a = 0.0192685649342926
+KeqGDH_a = 1.5
+KiNAD_GDH_a = 1.0
+KmGLU_GDH_a = 3.5
+KiAKG_GDH_a = 0.25
+KiNADH_GDH_a = 0.004
+KmNADH_GDH_a = 0.04
+KmAKG_GDH_a = 1.1
+KiGLU_GDH_a = 3.5
+VmaxGLNsynth_a = 0.020022679766390446
+KmGLNsynth_a = 2.0
+muGLNsynth_a = 0.01
+TmaxSNAT_GLN_a = 0.054730164766604375
+KmSNAT_GLN_a = 1.1
+coeff_gln_ratio_a_ecs = 1. 
