@@ -1,0 +1,2 @@
+Author of GLUT1_DS_model: Polina Shichkova and Jay Coggan, Molecular Systems, Blue Brain Project / EPFL (December, 2024)  
+
